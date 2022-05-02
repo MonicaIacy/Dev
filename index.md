@@ -1,8 +1,8 @@
-#Portfólio de Projetos
+# Portfólio de Projetos
 
 <br>
 
-##Site Clínica Materno
+## Site Clínica Materno
 
 Projeto em andamente que consiste na construção de um site estático para uma clínica médica.
 
@@ -20,7 +20,7 @@ Técnologias utilizadas:
 
 <br>
 
-##Projeto PicPro
+## Projeto PicPro
 
 Projeto realizado durante curso gratuito de desenvolvimento web oferecido pela Kenzie Academy em parceria com o PicPay.
 
@@ -37,7 +37,7 @@ Técnologias utilizadas:
 
 <br>
 
-##Site Ada Lovelace
+## Site Ada Lovelace
 
 Site estático feito durante o curso Eu Progr{amo} oferecido pela Programaria. Consiste em um site sobre a primeira mulher programadora da história.
 
@@ -52,7 +52,7 @@ Técnologias utilizadas:
 
 <br>
 
-##Tabela ordenada
+## Tabela ordenada
 
 Projeto feito com a intenção de entender melhor como fazer tabelas e utilizar o método sort().
 
