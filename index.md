@@ -10,6 +10,14 @@ Projeto em andamente que consiste na construção de um site estático para uma 
 
 Link do repositório: [site Materno](https://github.com/MonicaIacy/Clinica-Materno)
 
+Técnologias utilizadas:
+- HTML5
+- CSS3
+- JS
+- JQuery
+- Swiper
+- Owl
+
 <br>
 
 ##Projeto PicPro
@@ -22,6 +30,11 @@ Clone do layout do PicPay.
 
 link do repositório: [projeto PicPro](https://github.com/MonicaIacy/Projeto-picpro)
 
+Técnologias utilizadas:
+- HTML5
+- CSS3
+- JS
+
 <br>
 
 ##Site Ada Lovelace
@@ -32,6 +45,11 @@ Site estático feito durante o curso Eu Progr{amo} oferecido pela Programaria. C
 
 link do repositório: [site Ada](https://github.com/MonicaIacy/site_Ada_Lovelace)
 
+Técnologias utilizadas:
+- HTML5
+- CSS3
+- JS
+
 <br>
 
 ##Tabela ordenada
@@ -41,3 +59,10 @@ Projeto feito com a intenção de entender melhor como fazer tabelas e utilizar 
 ![image](https://user-images.githubusercontent.com/73076957/166329386-715871ff-7c97-4585-aeee-b0291f87d496.png)
 
 link repositório: [tabela](https://github.com/MonicaIacy/Table-sort)
+
+Técnologias utilizadas:
+- HTML5
+- CSS3
+- JS
+- JQuery
+- Bootstrap
