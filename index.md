@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages bobs
+#Portfólio de Projetos
 
-You can use the [editor on GitHub](https://github.com/MonicaIacy/Dev/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##Site Clínica Materno
 
-### Markdown
+Projeto em andamente que consiste na construção de um site estático para uma clínica médica.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![image](https://user-images.githubusercontent.com/73076957/166326504-4e411f78-ffc9-4479-98e9-0fe7adfbf394.png)
 
-```markdown
-Syntax highlighted code block
+Link do repositório: [site Materno](https://github.com/MonicaIacy/Clinica-Materno)
 
-# Header 1
-## Header 2
-### Header 3
+<br>
 
-- Bulleted
-- List
+##Projeto PicPro
 
-1. Numbered
-2. List
+Projeto realizado durante curso gratuito de desenvolvimento web oferecido pela Kenzie Academy em parceria com o PicPay.
 
-**Bold** and _Italic_ and `Code` text
+Clone do layout do PicPay.
 
-[Link](url) and ![Image](src)
-```
+![image](https://user-images.githubusercontent.com/73076957/166327525-1c615beb-3f74-4b64-a45e-b24a88ed3804.png)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+link do repositório: [projeto PicPro](https://github.com/MonicaIacy/Projeto-picpro)
 
-### Jekyll Themes
+<br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MonicaIacy/Dev/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+##Site Ada Lovelace
 
-### Support or Contact
+Site estático feito durante o curso Eu Progr{amo} oferecido pela Programaria. Consiste em um site sobre a primeira mulher programadora da história.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![image](https://user-images.githubusercontent.com/73076957/166328168-f13cf5af-0461-4c51-9101-c9a322c8f249.png)
+
+link do repositório: [site Ada](https://github.com/MonicaIacy/site_Ada_Lovelace)
